@@ -1,4 +1,9 @@
 # Data Science at a Glance
 Cheat Sheet for All Data Science Topics
 
-## [Python Basics] (python_basics.md)
+## [Python Basics] (https://github.com/zipfian/OOP)
+
+-Pandas
+
+## [SQL] (https://github.com/zipfian/sql)
+
