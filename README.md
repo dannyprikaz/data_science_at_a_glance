@@ -23,4 +23,30 @@ Cheat Sheet for All Data Science Topics
 
 [Bayesian Hypohtesis Test] (https://github.com/zipfian/multi-armed-bandit/blob/master/individual.md)
 
-## [Multi Armed Bandit] (https://github.com/zipfian/DSI_Lectures/blob/master/multi-armed-bandit/lee_murray/multi-armed-bandit.pdf)
+## [Linear Algebra] (https://github.com/zipfian/precourse/blob/master/Chapter_2_Linear_Algebra/notes.md)
+
+# Supervised Learning
+
+## Parametric Models
+
+[Linear Regression] (https://github.com/zipfian/DSI_Lectures/blob/master/linear-regression/clayton_schupp/lecture.pdf)
+
+[Regularized Regression (and general overfitting)] (https://github.com/zipfian/DSI_Lectures/blob/master/regularized-regression/notes/notes.md)
+
+[Logistic Regression] (https://github.com/zipfian/DSI_Lectures/blob/master/logistic-regression/clayton_schupp/logistic_regression_slides_clayton.pdf)
+
+## Non-Parametric Models
+
+
+
+## Misc
+
+[Multi Armed Bandit] (https://github.com/zipfian/DSI_Lectures/blob/master/multi-armed-bandit/lee_murray/multi-armed-bandit.pdf)
+
+[Profit Curves and Sampling Methods] (https://github.com/zipfian/profit-curve/blob/master/pair.md)
+
+[EDA] (https://github.com/zipfian/linear-algebra-eda/blob/master/pair.md)
+
+[Gradient Descent] (https://github.com/zipfian/gradient-descent/blob/master/pair.md)
+
+[ROC Curve] (https://github.com/zipfian/logistic-regression/blob/master/pair.md)
