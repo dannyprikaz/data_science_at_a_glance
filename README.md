@@ -37,6 +37,20 @@ Cheat Sheet for All Data Science Topics
 
 ## Non-Parametric Models
 
+[KNN] (https://github.com/zipfian/non-parametric-learners/blob/master/individual.md)
+
+[Decision Trees] (https://github.com/zipfian/non-parametric-learners/blob/master/pair.md)
+
+[Random Forests (Bagging)] (https://github.com/zipfian/random-forest/blob/master/individual.md)
+
+[SVMs] (https://github.com/zipfian/DSI_Lectures/blob/master/svm/lee/SVM.ipynb)
+
+[AdaBoost] (https://github.com/zipfian/boosting/blob/master/pair.md)
+
+[Other Boosting] (https://github.com/zipfian/DSI_Lectures/blob/master/boosting/sallamander/boosting.pdf)
+
+# Unsupervised Learning
+
 
 
 ## Misc
